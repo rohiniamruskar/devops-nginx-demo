@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# thsi is a script to install and enable nginx
 
 
 sudo apt-get update -y
